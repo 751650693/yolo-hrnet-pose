@@ -21,3 +21,15 @@ https://blog.csdn.net/xuzhongxiong/article/details/53789493
 
 7. 前向传播与反向传播计算实例
 https://www.cnblogs.com/charlotte77/p/5629865.html
+
+
+
+8. 卡尔曼滤波
+https://blog.csdn.net/tiandijun/article/details/72469471
+
+9. 多目标跟踪SORT等
+https://zhuanlan.zhihu.com/p/59148865
+
+
+10. 匈牙利算法
+https://blog.csdn.net/sunny_hun/article/details/80627351
